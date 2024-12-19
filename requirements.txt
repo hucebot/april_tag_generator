@@ -1,0 +1,6 @@
+numpy==1.21.5
+reportlab==3.6.8
+moms-apriltag==2023.1.15
+svglib==1.5.1
+svgwrite==1.4.3
+svgutils==0.3.4
