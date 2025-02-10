@@ -4,6 +4,8 @@ Code to generate april tag fiducial markers in PDF and SVG format.
 
 ## Usage
 
+Install required packages `pip install -r requirements.txt`.
+
 The function `generate_fiducial`, defined in `april_tag_generator.py`, create SVG and PDF files of the desired AprilTag.
 Its parameters are:
 
